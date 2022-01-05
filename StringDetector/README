@@ -1,1 +1,1 @@
-
+This folder contains files related to the String Detector description. lcd_controller.vhd and skeleton code of test.vhdl were provided by the TA for interfacing with the LCD on the Krypton Board. I have made the required modifications to test.vhdl. covid_detect.vhdl contains my description of the FSM to detect the string "COVID".
